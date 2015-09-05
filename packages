@@ -1,0 +1,16 @@
+# Aptitude
+proftpd
+postgresql
+postgresql-contrib
+python-pip
+python-virtualenv
+libpq-dev
+python-dev
+supervisor
+nginx
+
+# Pip
+gunicorn
+django
+psycopg2
+setproctitle
